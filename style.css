@@ -1,3 +1,10 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
 
+#display {
+    font-size: 8rem;
+}
 
 
